@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1650421445095') format('truetype');
+}
+/*
+把.iconfont改成.hhh-icon，最后在改成属性选择器[class*='hhh-icon']
+`[属性名*=属性值]` 选择属性值中含有某值的元素的元素。
+*/
+[class*='hhh-icon'] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hhh-icon-caomei:before {
+  content: "\e6c9";
+}
+
+.hhh-icon-a-li_huaban1:before {
+  content: "\e6ca";
+}
+
+.hhh-icon-baixiangguo:before {
+  content: "\e6cb";
+}
+
+.hhh-icon-huolongguo:before {
+  content: "\e6cc";
+}
+
+.hhh-icon-yangtao:before {
+  content: "\e6cd";
+}
+
+.hhh-icon-shanzhu:before {
+  content: "\e6ce";
+}
+

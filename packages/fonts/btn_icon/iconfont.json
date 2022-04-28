@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28909392",
+      "name": "草莓",
+      "font_class": "caomei",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "28909393",
+      "name": "梨_画板 1",
+      "font_class": "a-li_huaban1",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "28909394",
+      "name": "百香果",
+      "font_class": "baixiangguo",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "28909395",
+      "name": "火龙果",
+      "font_class": "huolongguo",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "28909396",
+      "name": "杨桃",
+      "font_class": "yangtao",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "28909397",
+      "name": "山竹",
+      "font_class": "shanzhu",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    }
+  ]
+}
